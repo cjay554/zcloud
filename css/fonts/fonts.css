@@ -1,0 +1,22 @@
+@font-face {
+    font-family: papyrus;
+    src: url(Papyrus-Regular.ttf);
+	
+}
+
+@font-face {
+    font-family: Monaco;
+    src: url(Monaco.ttf);
+	
+}
+
+@font-face {
+    font-family: saiyan;
+    src: url(Saiyan-Sans.ttf);
+}
+
+
+@font-face {
+    font-family: Apple;
+    src: url(AppleGaramond.ttf);
+}

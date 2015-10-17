@@ -1,0 +1,36 @@
+<?php $title="What we do";
+$content=''?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <?php include('./assets/structure/general/head.php')?>
+</head>
+
+<body>
+<div class="page">
+    <!--========================================================
+                              HEADER
+    =========================================================-->
+    <header>
+
+        <?php include('./assets/structure/general/stuckContainer.php')?>
+    </header>
+    <!--========================================================
+                              CONTENT
+    =========================================================-->
+    <main>
+        <?php echo $content;?>
+    </main>
+
+    <!--========================================================
+                              FOOTER
+    =========================================================-->
+    <footer>
+        <?php include('./assets/structure/footer.php') ?>
+    </footer>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>
